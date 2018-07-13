@@ -9,7 +9,7 @@ Repository : `js-datavisualisation-challenge`
 Mode : `solo`   
 Temps imparti : `5 jours`   
 Deadline: Jour J+5, 16h30  
-Website : 
+Website : [Data Visualisation](https://meilyn.github.io/js-datavisualisation-challenge/)
 
 ## Finalité de ce challenge
 Ce challenge doit te permettre de :
@@ -117,4 +117,4 @@ Le mode d'évaluation choisi est une **auto-évaluation** sur base des indicateu
 
  # Debrifing
  
- 
+ J'ai eu vraiment du mal avec cette exercice. sans l'aide de mes collègues ça n'aurais été possible. Merci @Marianne, @Guillaume, @Julie.Bien que je sois consciente de la valeur de cette exercice dans mon apprentisage, l'exercice en soit ne m'a pas passioné.
