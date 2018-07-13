@@ -27,6 +27,7 @@
   <link rel="stylesheet" href="./assets/font-awesome.min.css">
   <link rel="stylesheet" href="./assets/statexpflat.css">
   <link rel="stylesheet" href="./assets/statexpflat-grid.css">
+ 
 
   <style>
     a:lang(ar),
@@ -81,6 +82,11 @@
 
     .content {
       padding: 2rem 4rem;
+    }
+
+    .GI {
+      font-size: 25px;
+      color: red;
     }
   </style>
 </head>
@@ -198,7 +204,7 @@
         <!----
     <div class="eurostat">eurostat</div>
     <div class="statexp">Statistics Explained</div>
-    <!---->
+    <!-- -->
         <a href="http://ec.europa.eu/eurostat/statistics-explained/index.php/Main_Page/fr">
           <div class="statexptitle"></div>
         </a>
@@ -608,6 +614,20 @@
           </div>
 
           <h1 id="firstHeading" class="firstHeading">Statistiques sur la criminalité </h1>
+          <noscript>
+            <h3>Graphique Interactive</h3>
+            <p class="GI">Pour visualiser le contenu, veuillez activer votre JavaScript.</p>
+            <p>Pour activer JavaScript pour <b>Google Chrome :</b></p>
+            <ol>
+              <li>Accédez au menu Chrome et sélectionnez Préférences.</li>
+              <li>Sélectionnez l'onglet Options avancée.</li>
+              <li>Sous Confidentialité, cliquez sur Paramètres de contenu.</li>
+              <li>Sélectionnez l'onglet JavaScript et choisissez l'option Autoriser tous les sites à utiliser JavaScript.</li>
+              <li>Rafraîchissez votre navigateur en cliquant avec le bouton droit de la souris sur la page et en sélectionnant Relancer, ou en utilisant le bouton Relancer de la 
+              barre d'outils</li>
+            </ol>
+            <img src="assets/SSLC.jpeg" alt="Graphique Interactive" width="340" height="300" align="center"/>
+          </noscript>
 
           <div id="bodyContent" class="bodyContent">
 
@@ -2153,16 +2173,16 @@
 
       <!--END FOOTER-->
     </div>
-
-
-
- <script src="http://d3js.org/d3.v4.min.js"></script>
-  <script src="http://dimplejs.org/dist/dimple.v2.3.0.min.js"></script>
-  <script src="assets/script.js"></script>
-
-
+      
     <!--END PAGE-->
   </div>
+  <script src="http://d3js.org/d3.v4.min.js"></script>
+        <script src="http://dimplejs.org/dist/dimple.v2.3.0.min.js"></script>
+
+    
+
+  
+  <script src="assets/script.js"></script>
 </body>
 
 </html>
