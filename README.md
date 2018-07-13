@@ -2,6 +2,7 @@
 
 Meilyn **ANDRADE** At BeCode
 
+
 # Challenge Javascript
 
 Repository : `js-datavisualisation-challenge`   
@@ -113,3 +114,7 @@ Le mode d'évaluation choisi est une **auto-évaluation** sur base des indicateu
 
  - [ ] Si je désactive le javascript, l'expérience-utilisateur est satisfaisante, l'utilisateur a accès aux données et au contenu
  - [ ] Si j'active le javascript, les tableaux sont agrémentés d'un graphique interactif.
+
+ # Debrifing
+ 
+ 
